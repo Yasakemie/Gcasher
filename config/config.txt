@@ -1,0 +1,4 @@
+StartX: 97
+StartY: 48
+EndX: 282
+EndY: 72
